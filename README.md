@@ -69,6 +69,8 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) - creates a dot file suitable for use by [graphviz](http://www.graphviz.org/).
 - [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) - creates a svg file suitable for use by [graphviz](http://www.graphviz.org/).
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved.
+- [Ansible Review](https://github.com/willthames/ansible-review) - playbook syntax checker and a hook to ansible-lint.
+- [Ansible Later](https://github.com/xoxys/ansible-later) - A fork of Ansible Review (just up of this current line).
 - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules.
 - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
 - [Ansible Vim](https://github.com/pearofducks/ansible-vim) - Vim syntax plugin for Ansible 2.0.
